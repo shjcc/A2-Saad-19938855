@@ -5,7 +5,7 @@ IMPORTANT: Once you've cloned this to your forked repository, ensure that you co
 Please include your shared repository link here:
 
 Example:
-Choiru's shared repository: https://github.com/choiruzain-latrobe/Assignment2.git
+Choiru's shared repository: https://github.com/shjcc/A2-Saad-19938855
 
 
 Make sure for **your case it is in Private**
