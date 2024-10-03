@@ -19,7 +19,7 @@ function App() {
         <div className='page'>
             <h1>Contactor</h1>
             <ContactList contacts={contacts} setContacts={setContacts} />
-            <p>Click a contact to view associated phone numbers</p>
+            <p> a contact to view associated phone numbers</p>
             <Stats />
         </div>
     );
