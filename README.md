@@ -1,8 +1,6 @@
 # README.md
-
-IMPORTANT: Once you've cloned this to your forked repository, ensure that you continuously update this document as you complete each task to demonstrate your ongoing progress.
-
-Please include your shared repository link here: https://github.com/shjcc/A2-Saad-19938855
+Saad Hussain 19938855 
+GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
 
 **Task 1 User Interface Changes**
@@ -14,6 +12,34 @@ Please include your shared repository link here: https://github.com/shjcc/A2-Saa
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
 
 **Task 2 API Command Demonstration**
+1. Show the API command for “Show Contact”
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/b5e5d71e-2832-4f69-bdce-d4c53fe3627b">
+
+2. Show the API command for “Add Contact”
+<img width="394" alt="image" src="https://github.com/user-attachments/assets/9f02b683-4871-4fc2-b687-359b3cf22229">
+<img width="332" alt="image" src="https://github.com/user-attachments/assets/abdce1ac-e784-4af4-a6db-9488a7157d64">
+ 
+3. Show the API command for “Delete Contact” 
+<img width="353" alt="image" src="https://github.com/user-attachments/assets/e1b7bb7d-e25b-44a7-a738-524a37e4e133">
+<img width="325" alt="image" src="https://github.com/user-attachments/assets/7a38b1c3-d3be-4ac7-8328-4ee26034872f">
+
+4. Show the API command for “Update Contact” 
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/874c7b26-1195-4b24-a0d3-faf423b58679">
+<img width="338" alt="image" src="https://github.com/user-attachments/assets/d15f4987-1c7d-4e32-856d-244685eb6b19">
+
+5. Show the API command for “Show Phone”
+<img width="380" alt="image" src="https://github.com/user-attachments/assets/268b97fb-6743-4434-b5f6-52ac0c4cd959">
+
+6. Show the API command for “Add Phone” 
+<img width="531" alt="image" src="https://github.com/user-attachments/assets/8eaf5ca0-8400-414c-a32a-31d5c3eceb08">
+
+7. Show the API command for “Delete Phone” 
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/b50b9154-d208-4cc7-aa44-41851a531106">
+<img width="421" alt="image" src="https://github.com/user-attachments/assets/42945922-b930-4211-be91-740945a3e699">
+
+8. Show the API command for “Update Phone” 
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/da2693bf-314c-4d2d-87d9-1bc0471cc0ae">
+<img width="392" alt="image" src="https://github.com/user-attachments/assets/41122a2b-e59f-453e-93cb-e070aaa262d6">
 
 **Task 3 DataBase Modelling**
 
@@ -31,7 +57,7 @@ Please include your shared repository link here: https://github.com/shjcc/A2-Saa
 
 
 
-Make sure for **your case it is in Private**
+
 ## Access Database
 1 **Plsql Cheat Sheet:**
 You can refer to the PostgreSQL cheat sheet [here](https://www.postgresqltutorial.com/postgresql-cheat-sheet/).
