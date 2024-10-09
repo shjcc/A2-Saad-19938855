@@ -2,11 +2,11 @@
 
 IMPORTANT: Once you've cloned this to your forked repository, ensure that you continuously update this document as you complete each task to demonstrate your ongoing progress.
 
-Please include your shared repository link here:
+Please include your shared repository link here: https://github.com/shjcc/A2-Saad-19938855
 
-Example:
-Choiru's shared repository: https://github.com/shjcc/A2-Saad-19938855
 
+**Task 1**
+<img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
 
 Make sure for **your case it is in Private**
 ## Access Database
