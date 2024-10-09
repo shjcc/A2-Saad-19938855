@@ -6,6 +6,11 @@ Please include your shared repository link here: https://github.com/shjcc/A2-Saa
 
 
 **Task 1**
+1. changed from "Delete" to "Delete Contact".
+2. changed from "Add" to "Add user's Phone", this is dependent on what the user inputs as the contact name.
+3. changed "Name" to a drop-down menu with "Mobile", "Work", "Home", "Other"
+4. in the <tr> element of the table, change the label "Name" to "Phone Type"
+
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
 
 Make sure for **your case it is in Private**
