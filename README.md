@@ -32,6 +32,7 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
 6. Show the API command for “Add Phone” 
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/8eaf5ca0-8400-414c-a32a-31d5c3eceb08">
+<img width="379" alt="image" src="https://github.com/user-attachments/assets/924c27a5-78bf-40af-bc79-6add10a8f7e3">
 
 7. Show the API command for “Delete Phone” 
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/b50b9154-d208-4cc7-aa44-41851a531106">
