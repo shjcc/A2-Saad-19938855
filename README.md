@@ -2,6 +2,7 @@
 Saad Hussain 19938855 
 GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
+<br/>
 
 **Task 1 User Interface Changes**
 1. changed from "Delete" to "Delete Contact".
@@ -41,6 +42,7 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 8. Show the API command for “Update Phone” 
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/da2693bf-314c-4d2d-87d9-1bc0471cc0ae">
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/41122a2b-e59f-453e-93cb-e070aaa262d6">
+
 
 **Task 3 DataBase Modelling**
 
