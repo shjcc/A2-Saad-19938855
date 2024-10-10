@@ -45,6 +45,19 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
 
 **Task 3 DataBase Modelling**
+- Modify the contacts Table:
+<img width="485" alt="image" src="https://github.com/user-attachments/assets/ccad091a-2404-4b0f-9624-4903c2acfc54">
+added a new column named 'Address'
+
+- Modify the phones Table:
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3">
+renamed 'name' to 'phone_type' and 'number' to 'phone_number' 
+  
+- Adjust the Front-End:
+a 
+ 
+- Test All APIs related to table modified contacts and phones:
+a
 
 **Task 4 Expanding The Existing Tables**
 
