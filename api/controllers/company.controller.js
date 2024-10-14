@@ -1,8 +1,9 @@
 const db = require("../models");
+const Contacts = db.contacts;
 const Companies = db.companies;
 const Op = db.Sequelize.Op;
 
-// Create contact
+// Create company
 exports.create = (req, res) => {
     const company = {
         company_name: req.body.company_name,
@@ -11,7 +12,7 @@ exports.create = (req, res) => {
 
     };
 
-    Contacts.create(company)
+    Companies.create(company)
         .then(data => {
             res.send(data);
         })
@@ -63,7 +64,7 @@ exports.findOne = (req, res) => {
 exports.update = (req, res) => {
     const id = req.params.companyId;
 
-    Phones.update(req.body, {
+    Companies.update(req.body, {
         where: { id: id, contactId: req.params.contactId }
     })
         .then(num => {
@@ -88,7 +89,7 @@ exports.update = (req, res) => {
 exports.delete = (req, res) => {
     const id = req.params.companyId;
 
-    Phones.destroy({
+    Companies.destroy({
         where: { id: id, contactId: req.params.contactId }
     })
         .then(num => {
