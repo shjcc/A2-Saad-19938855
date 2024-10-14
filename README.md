@@ -45,20 +45,46 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
 
 **Task 3 DataBase Modelling**
-- Modify the contacts Table:
+**- Modify the contacts Table:**
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/ccad091a-2404-4b0f-9624-4903c2acfc54">
 added a new column named 'Address'
 
-- Modify the phones Table:
+**- Modify the phones Table:**
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3">
 renamed 'name' to 'phone_type' and 'number' to 'phone_number' 
-  
-- Adjust the Front-End:
-<img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
- includede the address tag and renamed the phone list to phone type and phone number
-- Test All APIs related to table modified contacts and phones:
-a
 
+  
+**- Adjust the Front-End:**
+
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
+
+ included the address tag and renamed the phone list to phone type and phone number
+
+**- Test All APIs related to table-modified contacts and phones:** 
+**Show Contacts**
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/e3cea482-8bd1-46eb-a61f-640e13a7a2f8">
+**Add Contacts**
+<img width="731" alt="image" src="https://github.com/user-attachments/assets/bcc719ef-ed92-4dd4-949b-5b8c0208bd2b">
+  
+**Delete Contacts**
+<img width="526" alt="image" src="https://github.com/user-attachments/assets/bfe7a5fd-5a77-4015-a9db-5f59d5b7b145">
+
+**Update Contacts**
+<img width="763" alt="image" src="https://github.com/user-attachments/assets/59537f58-db43-4fde-aced-0c5181db3fc4">
+
+**Show Phones**
+<img width="550" alt="image" src="https://github.com/user-attachments/assets/d2cb8380-d464-4e30-8dee-ce4104a3fdb1">
+
+**Add Phones**
+<img width="776" alt="image" src="https://github.com/user-attachments/assets/2b3289f0-acc8-4279-8ae3-ef7ab845bf81">
+
+**Delete Phones**
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/8069e85e-70be-4633-9d41-87cd9d4467a5">
+
+**Update Phones**
+<img width="821" alt="image" src="https://github.com/user-attachments/assets/a5c2630d-43ba-463e-a114-c4251e05f929">
+
+  
 **Task 4 Expanding The Existing Tables**
 
 **Task 5 Front End**
