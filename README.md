@@ -1,4 +1,4 @@
-<img width="821" alt="image" src="https://github.com/user-attachments/assets/f32e70fa-aace-4c4e-a9b8-d421f45b9588"># README.md
+# README.md
 Saad Hussain 19938855 
 GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
