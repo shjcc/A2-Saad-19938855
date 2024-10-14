@@ -2,89 +2,125 @@
 Saad Hussain 19938855 
 GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
-<br/>
+
 
 **Task 1 User Interface Changes**
-1. changed from "Delete" to "Delete Contact".
+**<p>1. changed from "Delete" to "Delete Contact".
 2. changed from "Add" to "Add user's Phone", this is dependent on what the user inputs as the contact name.
 3. changed "Name" to a drop-down menu with "Mobile", "Work", "Home", "Other"
-4. in the <tr> element of the table, change the label "Name" to "Phone Type"
-
+4. in the tr element of the table, change the label "Name" to "Phone Type"</p>**
+<div>
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
+</div>
 
 **Task 2 API Command Demonstration**
-1. Show the API command for “Show Contact”
+**1. Show the API command for “Show Contact”:**
+<div>
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/b5e5d71e-2832-4f69-bdce-d4c53fe3627b">
+</div>
 
-2. Show the API command for “Add Contact”
+**2. Show the API command for “Add Contact”:**
+<div>
 <img width="394" alt="image" src="https://github.com/user-attachments/assets/9f02b683-4871-4fc2-b687-359b3cf22229">
 <img width="332" alt="image" src="https://github.com/user-attachments/assets/abdce1ac-e784-4af4-a6db-9488a7157d64">
+</div>
  
-3. Show the API command for “Delete Contact” 
+**3. Show the API command for “Delete Contact”:** 
+<div>
 <img width="353" alt="image" src="https://github.com/user-attachments/assets/e1b7bb7d-e25b-44a7-a738-524a37e4e133">
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/7a38b1c3-d3be-4ac7-8328-4ee26034872f">
+</div>
 
-4. Show the API command for “Update Contact” 
+**4. Show the API command for “Update Contact”:** 
+<div>
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/874c7b26-1195-4b24-a0d3-faf423b58679">
 <img width="338" alt="image" src="https://github.com/user-attachments/assets/d15f4987-1c7d-4e32-856d-244685eb6b19">
+</div>
 
-5. Show the API command for “Show Phone”
+**5. Show the API command for “Show Phone”:**
+<div>
 <img width="380" alt="image" src="https://github.com/user-attachments/assets/268b97fb-6743-4434-b5f6-52ac0c4cd959">
+</div>
 
-6. Show the API command for “Add Phone” 
+**6. Show the API command for “Add Phone”:** 
+<div>
 <img width="531" alt="image" src="https://github.com/user-attachments/assets/8eaf5ca0-8400-414c-a32a-31d5c3eceb08">
 <img width="379" alt="image" src="https://github.com/user-attachments/assets/924c27a5-78bf-40af-bc79-6add10a8f7e3">
+</div>
 
-7. Show the API command for “Delete Phone” 
+**7. Show the API command for “Delete Phone”:** 
+<div>
 <img width="410" alt="image" src="https://github.com/user-attachments/assets/b50b9154-d208-4cc7-aa44-41851a531106">
 <img width="421" alt="image" src="https://github.com/user-attachments/assets/42945922-b930-4211-be91-740945a3e699">
+</div>
 
-8. Show the API command for “Update Phone” 
+**8. Show the API command for “Update Phone”:** 
+<div>
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/da2693bf-314c-4d2d-87d9-1bc0471cc0ae">
 <img width="392" alt="image" src="https://github.com/user-attachments/assets/41122a2b-e59f-453e-93cb-e070aaa262d6">
-
+</div>
 
 **Task 3 DataBase Modelling**
 **- Modify the contacts Table:**
+<div>
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/ccad091a-2404-4b0f-9624-4903c2acfc54">
-added a new column named 'Address'
+</div>
+<p>added a new column named 'Address'</p>
 
 **- Modify the phones Table:**
+<div>
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3">
-renamed 'name' to 'phone_type' and 'number' to 'phone_number' 
+</div>
+<p>renamed 'name' to 'phone_type' and 'number' to 'phone_number'</p>
 
   
 **- Adjust the Front-End:**
-
+<div>
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
-
- included the address tag and renamed the phone list to phone type and phone number
+<div>
+<p>included the address tag and renamed the phone list to phone type and phone number</p>
 
 **- Test All APIs related to table-modified contacts and phones:** 
-**Show Contacts**
+**Show Contacts:**
+<div>
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/e3cea482-8bd1-46eb-a61f-640e13a7a2f8">
+<div>
 
-**Add Contacts**
+**Add Contacts:**
+<div>
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/bcc719ef-ed92-4dd4-949b-5b8c0208bd2b">
+</div>
   
-**Delete Contacts**
+**Delete Contacts:**
+<div>
 <img width="526" alt="image" src="https://github.com/user-attachments/assets/bfe7a5fd-5a77-4015-a9db-5f59d5b7b145">
+</div>
 
-**Update Contacts**
+**Update Contacts:**
+<div>
 <img width="763" alt="image" src="https://github.com/user-attachments/assets/59537f58-db43-4fde-aced-0c5181db3fc4">
+</div>
 
-**Show Phones**
+**Show Phones:**
+<div>
 <img width="550" alt="image" src="https://github.com/user-attachments/assets/d2cb8380-d464-4e30-8dee-ce4104a3fdb1">
+</div>
 
-**Add Phones**
+**Add Phones:**
+<div>
 <img width="776" alt="image" src="https://github.com/user-attachments/assets/2b3289f0-acc8-4279-8ae3-ef7ab845bf81">
+</div>
 
-**Delete Phones**
+**Delete Phones:**
+<div>
 <img width="587" alt="image" src="https://github.com/user-attachments/assets/8069e85e-70be-4633-9d41-87cd9d4467a5">
+</div>
 
-**Update Phones**
+**Update Phones:**
+<div>
 <img width="821" alt="image" src="https://github.com/user-attachments/assets/a5c2630d-43ba-463e-a114-c4251e05f929">
-    
+</div> 
+
 **Task 4 Expanding The Existing Tables**
 **Table Creation: Create a new table named `companies` with the following attributes (company_id, company_name, company_address, contact_id)**
 <div>
@@ -104,14 +140,27 @@ renamed 'name' to 'phone_type' and 'number' to 'phone_number'
 <p>was getting errors saying missing columns createdAt and updatedAt, altered the companies table to include the missing columns</p>
 
 **API Creation: Develop four APIs to manage records in the companies table**
-**Show Companies**
 
-**Add Companies**
+**Show Companies:**
+<div>
+ <img width="404" alt="image" src="https://github.com/user-attachments/assets/6c390086-e868-4bac-9509-5571a8ec1b59">
+</div>
 
-**Delete Companies**
+**Add Companies:**
+<div>
+ <img width="749" alt="image" src="https://github.com/user-attachments/assets/d987d9e3-ca75-4f38-b466-5e4d4419938e">
+</div>
 
-**Alter Companies**
+**Delete Companies:**
+<div>
+ <img width="432" alt="image" src="https://github.com/user-attachments/assets/6bd8acf1-ebf0-4846-80fa-da9a088b709c">
+</div>
 
+**Alter Companies:**
+<div>
+ <img width="774" alt="image" src="https://github.com/user-attachments/assets/1b5ffd29-d3c6-4951-aeb2-0e9c4811cc30">
+
+</div>
 
 **Task 5 Front End**
 
