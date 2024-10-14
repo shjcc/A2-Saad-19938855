@@ -63,6 +63,7 @@ renamed 'name' to 'phone_type' and 'number' to 'phone_number'
 **- Test All APIs related to table-modified contacts and phones:** 
 **Show Contacts**
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/e3cea482-8bd1-46eb-a61f-640e13a7a2f8">
+
 **Add Contacts**
 <img width="731" alt="image" src="https://github.com/user-attachments/assets/bcc719ef-ed92-4dd4-949b-5b8c0208bd2b">
   
@@ -86,6 +87,18 @@ renamed 'name' to 'phone_type' and 'number' to 'phone_number'
 
   
 **Task 4 Expanding The Existing Tables**
+**Table Creation: Create a new table named `companies` with the following attributes (company_id, company_name, company_address, contact_id)**
+<img align="left" width="283" alt="image" src="https://github.com/user-attachments/assets/04ae09c0-79cc-44cf-9429-fa44be4f1369">
+
+**API Creation: Develop four APIs to manage records in the companies table**
+**Show Companies**
+
+**Add Companies**
+
+**Delete Companies**
+
+**Alter Companies**
+
 
 **Task 5 Front End**
 
