@@ -10,7 +10,7 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 3. changed "Name" to a drop-down menu with "Mobile", "Work", "Home", "Other"
 4. in the <tr> element of the table, change the label "Name" to "Phone Type"
 
-<img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
+<img align="right" width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
 
 **Task 2 API Command Demonstration**
 1. Show the API command for “Show Contact”
