@@ -54,8 +54,8 @@ added a new column named 'Address'
 renamed 'name' to 'phone_type' and 'number' to 'phone_number' 
   
 - Adjust the Front-End:
-a 
- 
+<img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
+ includede the address tag and renamed the phone list to phone type and phone number
 - Test All APIs related to table modified contacts and phones:
 a
 
