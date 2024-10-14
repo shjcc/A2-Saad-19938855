@@ -140,7 +140,24 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 <p>was getting errors saying missing columns createdAt and updatedAt, altered the companies table to include the missing columns</p>
 
 **API Creation: Develop four APIs to manage records in the companies table**
+**<p>API Development</p>**
+<div>
+ 
+ **<p>company.routes.js:</p>**
+ <img width="646" alt="image" src="https://github.com/user-attachments/assets/430ab38a-2b40-4ded-965d-bb1fe12137a8">
 
+ **<p>company.model.js:</p>**
+ <img width="642" alt="image" src="https://github.com/user-attachments/assets/e1cc91d0-beae-4a72-a117-4d113e43dc6b">
+ 
+ **<p>company.controller.js:</p>**
+ <img width="649" alt="image" src="https://github.com/user-attachments/assets/25a6f9c9-dc89-4ec7-b79a-997910bf68c7">
+
+ **<p>app.js & index.js:</p>**
+ <img width="590" alt="image" src="https://github.com/user-attachments/assets/e2f78723-bef4-4307-b400-a9b0a467c200">
+ <img width="386" alt="image" src="https://github.com/user-attachments/assets/377401f3-934b-4970-aa5b-acdb0798f964">
+</div>
+
+**<p>API Demonstration (proof that data is persistent in that database)</p>**
 **Show Companies:**
 <div>
  <img width="404" alt="image" src="https://github.com/user-attachments/assets/6c390086-e868-4bac-9509-5571a8ec1b59">
