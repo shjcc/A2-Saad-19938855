@@ -91,12 +91,17 @@ renamed 'name' to 'phone_type' and 'number' to 'phone_number'
   <img width="283" alt="image" src="https://github.com/user-attachments/assets/04ae09c0-79cc-44cf-9429-fa44be4f1369">
   <img width="309" alt="image" src="https://github.com/user-attachments/assets/eee24989-4a25-46fe-8a1f-66e99cb763dd">
 </div>
-<p>renamed the column <code>company_id</code> to <code>id</code> to match the naming conventions of the other tables such as <code>phone_id</code> named as <code>id</code>.</p>
+<p>renamed the column company_id to id to match the naming conventions of the other tables such as phone_id named as id.</p>
 
 <div>
   <img width="298" alt="image" src="https://github.com/user-attachments/assets/bd3bc6c3-4014-4983-a878-1488a54f8e67">
 </div>
-<p>renamed <code>contact_id</code> to <code>contactId</code> to follow the naming structure as outlined in the Phones table, also to fix issues of API requests not going through.</p>
+<p>renamed contact_id to contactId to follow the naming structure outlined in the Phones table and to fix API requests not going through.</p>
+
+<div>
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/a17332d4-cd82-43d8-9716-5e491bcc650d">
+</div>
+<p>was getting errors saying missing columns createdAt and updatedAt, altered the companies table to include the missing columns</p>
 
 **API Creation: Develop four APIs to manage records in the companies table**
 **Show Companies**
