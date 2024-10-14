@@ -87,8 +87,9 @@ renamed 'name' to 'phone_type' and 'number' to 'phone_number'
     
 **Task 4 Expanding The Existing Tables**
 **Table Creation: Create a new table named `companies` with the following attributes (company_id, company_name, company_address, contact_id)**
-<img align="left" width="283" alt="image" src="https://github.com/user-attachments/assets/04ae09c0-79cc-44cf-9429-fa44be4f1369">
+<div><img align="left" width="283" alt="image" src="https://github.com/user-attachments/assets/04ae09c0-79cc-44cf-9429-fa44be4f1369">
 <img width="309" alt="image" src="https://github.com/user-attachments/assets/eee24989-4a25-46fe-8a1f-66e99cb763dd">
+</div>
 renamed the column company_id to id to match the naming conventions of the other tables such as phone_id named as id
 
 **API Creation: Develop four APIs to manage records in the companies table**
