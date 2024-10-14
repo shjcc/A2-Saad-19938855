@@ -52,9 +52,12 @@ added a new column named 'Address'
 **- Modify the phones Table:**
 <img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3">
 renamed 'name' to 'phone_type' and 'number' to 'phone_number' 
+
   
 **- Adjust the Front-End:**
+
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
+
  included the address tag and renamed the phone list to phone type and phone number
 
 **- Test All APIs related to table-modified contacts and phones:** 
