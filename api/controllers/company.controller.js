@@ -1,5 +1,4 @@
 const db = require("../models");
-const Contacts = db.contacts;
 const Companies = db.companies;
 const Op = db.Sequelize.Op;
 
