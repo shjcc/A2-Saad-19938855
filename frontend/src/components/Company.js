@@ -19,7 +19,7 @@ function Company(props) {
         <div>
             <h5>{company.company_name}</h5>
             <p>{company.company_address}</p>
-            <button onClick={deleteCompany}>Delete Company</button>
+            <button className='button red' onClick={deleteCompany}>Delete Company</button>
         </div>
     )
 

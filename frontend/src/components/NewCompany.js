@@ -22,7 +22,7 @@ function NewCompany(props){
         const data = await response.json();
 
         if (data.id) {
-            setCompanyName(...companies, data);
+            setCompanies(...companies, data);
         }
 
         setCompanyName( '');
@@ -45,7 +45,7 @@ function NewCompany(props){
                 onChange={(e) => setCompanyAddress(e.target.value)}
                 required
             />
-            <button type="submit">Create Company</button>
+            <button className='button green' type="submit">Create Company</button>
         </form>
     );
 }

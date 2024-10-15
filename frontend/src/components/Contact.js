@@ -53,7 +53,6 @@ function Contact(props) {
             </div>
 
             <div style={expandStyle} onClick={handleExpandedClick}>
-            <hr />
                 <PhoneList phones={phones} setPhones={setPhones} contact={contact} />
                 <h5>Companies</h5>
                 {companies.map((company) => (
