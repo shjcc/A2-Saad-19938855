@@ -30,7 +30,7 @@ function NewCompany(props){
     }
 
     return (
-        <form onSubmit={createCompany}>
+        <form onSubmit={createCompany} className={"new-company"}>
             <input
                 type="text"
                 placeholder="Company Name"

@@ -16,12 +16,18 @@ function Company(props) {
         }
     }
     return (
-        <div>
-            <h5>{company.company_name}</h5>
-            <p>{company.company_address}</p>
-            <button className='button red' onClick={deleteCompany}>Delete Company</button>
-        </div>
-    )
+        <tr>
+            <td>{company.company_name}</td>
+            <td>{company.company_address}</td>
+            <td style={
+                {
+                    width: '14px',
+                }
+            }>
+                <button className="button red" onClick={deleteCompany}>Delete Company</button>
+            </td>
+        </tr>
+    );
 
 }
 
