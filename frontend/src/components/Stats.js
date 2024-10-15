@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+// need to update to include company info
 function Stats() {
     const [expanded, setExpanded] = useState(false);
     const [totalContacts, setTotalContacts] = useState(0);
