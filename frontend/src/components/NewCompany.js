@@ -22,7 +22,7 @@ function NewCompany(props){
         const data = await response.json();
 
         if (data.id) {
-            setCompanies(...companies, data);
+            setCompanies((prevCompanies) => [...prevCompanies, data]);
         }
 
         setCompanyName( '');
