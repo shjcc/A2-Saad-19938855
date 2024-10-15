@@ -27,10 +27,27 @@ function NewCompany(props){
 
         setCompanyName( '');
         setCompanyAddress( '');
-
-
     }
 
+    return (
+        <form onSubmit={createCompany}>
+            <input
+                type="text"
+                placeholder="Company Name"
+                value={company_name}
+                onChange={(e) => setCompanyName(e.target.value)}
+                required
+            />
+            <input
+                type="text"
+                placeholder="Company Address"
+                value={company_address}
+                onChange={(e) => setCompanyAddress(e.target.value)}
+                required
+            />
+            <button type="submit">Create Company</button>
+        </form>
+    );
 }
 
 export default NewCompany;
