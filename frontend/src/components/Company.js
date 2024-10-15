@@ -6,11 +6,14 @@ function Company(props) {
             method: 'DELETE',
         });
 
-        let newCompanies = company.filter((p) => {
-            return p.id !== company.id;
-        });
-
-        setCompanies(newCompanies);
+        if (response.ok) {
+            let newCompanies = companies.filter((p) => {
+                return p.id !== company.id;
+            });
+            setCompanies(newCompanies);
+        } else {
+            console.error('issue with companyDelete function T_T')
+        }
     }
     return (
         <div>
