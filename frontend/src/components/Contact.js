@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';  // import useEffect
 import PhoneList from './PhoneList.js';
-import Company from "./Company";
-import NewCompany from "./NewCompany";
+import CompanyList from "./CompanyList";
 
 function Contact(props) {
     const {contact, contacts, setContacts} = props;
@@ -52,23 +51,9 @@ function Contact(props) {
                 <button className='button red' onClick={doDelete}>Delete Contact</button>
             </div>
 
-            <div style={expandStyle} onClick={handleExpandedClick}>
+            <div style={expandStyle} onClick={handleExpandedClick} >
                 <PhoneList phones={phones} setPhones={setPhones} contact={contact} />
-                <h5>Companies</h5>
-                {companies.map((company) => (
-                    <Company
-                        key={company.id}
-                        contact={contact}
-                        company={company}
-                        companies={companies}
-                        setCompanies={setCompanies}
-                    />
-                    ))}
-                    <NewCompany
-                        contact={contact}
-                        companies={companies}
-                        setCompanies={setCompanies}
-                    />
+                <CompanyList companies={companies} setCompanies={setCompanies} contact={contact} />
             </div>
         </div>
     );
