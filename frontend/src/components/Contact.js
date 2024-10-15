@@ -40,6 +40,10 @@ function Contact(props) {
         setContacts(newContacts);
     }
 
+    function handleExpandedClick(e) {
+        e.stopPropagation();
+    }
+
     return (
         <div key={contact.id} className='contact' onClick={(e) => setExpanded(!expanded)}>
             <div className='title'>
@@ -48,7 +52,7 @@ function Contact(props) {
                 <button className='button red' onClick={doDelete}>Delete Contact</button>
             </div>
 
-            <div style={expandStyle}>
+            <div style={expandStyle} onClick={handleExpandedClick}>
             <hr />
                 <PhoneList phones={phones} setPhones={setPhones} contact={contact} />
                 <h5>Companies</h5>
