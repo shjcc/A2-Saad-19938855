@@ -12,6 +12,13 @@ function Company(props) {
 
         setCompanies(newCompanies);
     }
+    return (
+        <div>
+            <h5>{company.company_name}</h5>
+            <p>{company.company_address}</p>
+            <button onClick={deleteCompany}>Delete Company</button>
+        </div>
+    )
 
 }
 
