@@ -1,4 +1,4 @@
-# README.md
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/d38533f3-1bab-44c1-b712-44dd6fd7d096"># README.md
 Saad Hussain 19938855 
 GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
@@ -176,10 +176,37 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 **Alter Companies:**
 <div>
  <img width="774" alt="image" src="https://github.com/user-attachments/assets/1b5ffd29-d3c6-4951-aeb2-0e9c4811cc30">
-
 </div>
 
 **Task 5 Front End**
+**<p>Company.js</p>:**
+
+<div>
+<img width="721" alt="image" src="https://github.com/user-attachments/assets/00ee77a4-e57c-4030-a41a-b7b6bb40cab1">
+<img width="715" alt="image" src="https://github.com/user-attachments/assets/c3289e4b-e04f-46d7-a9ab-99dcc489b8a5">
+</div>
+
+**<p>NewCompany.js:</p>**
+
+<div>
+ <img width="727" alt="image" src="https://github.com/user-attachments/assets/31b467c9-9339-41a0-adf1-e4a1c70db496">
+<img width="716" alt="image" src="https://github.com/user-attachments/assets/c96741e8-1015-40e4-8595-dd62f39d504b">
+</div>
+
+**<p>CompanyList.js:</p>**
+
+<div>
+ <img width="727" alt="image" src="https://github.com/user-attachments/assets/ddff6e70-66fa-4027-b011-1204509ad41b">
+</div>
+
+**<p>Contact.js:</p>**
+
+<div>
+ <img width="724" alt="image" src="https://github.com/user-attachments/assets/72fc9399-bc34-4eb6-8def-a12df2be37d5">
+<img width="726" alt="image" src="https://github.com/user-attachments/assets/be93a669-c8fd-4757-a5d6-6b1007da157e">
+</div>
+
+**<p>Testing all the developed API calls for table Company:</p>**
 
 **Task 6 Building A New Application**
 
