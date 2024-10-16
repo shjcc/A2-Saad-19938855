@@ -215,10 +215,3 @@ GitHub Repository Link: <a> https://github.com/shjcc/A2-Saad-19938855 </a>
 
 **Task 6 Building A New Application**
 
-
-```
-http get http://localhost/api/contacts/1/phones
-
-```
-
-### Phone API
