@@ -1,5 +1,5 @@
 Saad Hussain 19938855 
-GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
+GitHub Repository Link: <a> https://github.com/shjcc/A2-Saad-19938855 </a>
 
 
 
@@ -8,11 +8,13 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 2. changed from "Add" to "Add user's Phone", this is dependent on what the user inputs as the contact name.
 3. changed "Name" to a drop-down menu with "Mobile", "Work", "Home", "Other"
 4. in the tr element of the table, change the label "Name" to "Phone Type"</p>**
+<p>For task 1, I reviewed the frontend code and adjusted the relevant sections. I adjusted the button Add to add the contact's name and phone, that way, whatever the contact's name is, the button will reflect that. The next task was to convert the Name in the phone section into a drop-down menu. This just involved converting the section relating to Name into a series of drop-down menus including Mobile, Work, Home, and Other. The final task involved renaming the phones list to match the new sections like phone_type</p>
 <div>
 <img width="381" alt="image" src="https://github.com/user-attachments/assets/5740efa0-8624-476e-8d18-3b949a48effe">
 </div>
 
 **Task 2 API Command Demonstration**
+<p>For task 2 I opened a command terminal on my local machine and entered the respective command, for example: <c>http GET http://localhost/api/contacts</c>, for more specific API commands such as getting Phones, I would specify with the contact: id. </p>
 **1. Show the API command for “Show Contact”:**
 <div>
 <img width="325" alt="image" src="https://github.com/user-attachments/assets/b5e5d71e-2832-4f69-bdce-d4c53fe3627b">
@@ -61,25 +63,29 @@ GitHub Repository Link: https://github.com/shjcc/A2-Saad-19938855
 
 **Task 3 DataBase Modelling**
 **- Modify the contacts Table:**
+<p>For this task, I created a new column with the table contacts by using the command ALTER TABLE.</p>
+
 <div>
 <img width="485" alt="image" src="https://github.com/user-attachments/assets/ccad091a-2404-4b0f-9624-4903c2acfc54">
 </div>
 <p>added a new column named 'Address'</p>
 
 **- Modify the phones Table:**
+<p> For this task I altered the tables to include the new naming conventions like phone_type and phone_address</p>
 <div>
-<img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3">
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/3dcf25d9-0cbb-44cc-9c1c-f76cd1b0e3c3F">
 </div>
-<p>renamed 'name' to 'phone_type' and 'number' to 'phone_number'</p>
 
   
 **- Adjust the Front-End:**
 <div>
 <img width="291" alt="image" src="https://github.com/user-attachments/assets/75684307-efe8-4258-9386-faf5b552fe4f">
 <div>
-<p>included the address tag and renamed the phone list to phone type and phone number</p>
+<p>Adjusted the code within the frontend files to reflect the new naming tables, including the address section so the user can see their address after entering it within the input form of phone_address.</p>
 
 **- Test All APIs related to table-modified contacts and phones:** 
+<p>For task 2 I opened a command terminal on my local machine and entered the respective command, this time for the new columns such as phone_type, phone_address and contact address. </p>
+
 **Show Contacts:**
 <div>
 <img width="491" alt="image" src="https://github.com/user-attachments/assets/e3cea482-8bd1-46eb-a61f-640e13a7a2f8">
